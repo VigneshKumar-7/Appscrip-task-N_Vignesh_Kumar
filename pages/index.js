@@ -1,4 +1,4 @@
- // pages/index.jsx
+  // pages/index.jsx
 import Head from 'next/head'
 import React from 'react'
 
